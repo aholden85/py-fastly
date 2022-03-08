@@ -1,2 +1,2 @@
 # py-fastly
-Some helpful tools to work with Fastly.
+A growing collection of Fastly API calls that I've implemented as Python functions. 
